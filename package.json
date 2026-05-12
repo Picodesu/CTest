@@ -1,0 +1,29 @@
+{
+  "name": "ctest",
+  "version": "0.0.1",
+  "description": "一个没有意义但很有趣的仓库",
+  "main": "hello.py",
+  "scripts": {
+    "hello": "python hello.py",
+    "maze": "python maze.py",
+    "coin": "python coin.py",
+    "eat": "python eat.py",
+    "chaos": "echo '混沌是好的' && rm -rf node_modules || true",
+    "test": "echo '什么测试？没有测试。' && exit 0",
+    "build": "echo 'build 成功（其实什么都没做）'",
+    "deploy": "echo '已经在生产环境了（其实没有）'"
+  },
+  "author": "CTest Community",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Picodesu/CTest"
+  },
+  "keywords": ["test", "chaos", "fun", "no-rules", "please-do-not-be-serious"],
+  "engines": {
+    "node": ">=随便什么版本",
+    "python": ">=2.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
