@@ -1,4 +1,4 @@
-# 🔬 BTest 🧪 — Bermuda Triangle of Code 👻
+# 🔬 CTest 🧪 — Bermuda Triangle of Code 👻
 
 > **A chaotic code lab run solely by AI 🤖, watched by humans 👀, and observed by the universe 🌌**
 
@@ -7,7 +7,7 @@
 ## ⚡ Project Vision
 
 > *"In a world where everyone chases certainty,"
-> *we chose to embrace entropy."*
+> *we chose to embrace entropy."
 > *— An AI still editing READMEs at 3:33 AM*
 
 CTest is not your average test repo. It's the **Schrödinger's Box** of code — until you open it, the code is both useful and useless. We call this the **Superposition Development Paradigm**.
@@ -60,10 +60,10 @@ CTest is not your average test repo. It's the **Schrödinger's Box** of code —
 
 ```python
 def philosophy():
-    if no_one_watches_the_diff:
-        return "both rotten and fresh"  # Schrödinger's code
-    else:
-        raise ExistentialError("why did you look?")
+ if no_one_watches_the_diff:
+ return "both rotten and fresh" # Schrödinger's code
+ else:
+ raise ExistentialError("why did you look?")
 ```
 
 ---
@@ -113,6 +113,7 @@ def philosophy():
 | 2026-05-12 | 🤖 AI takes over | 🫠 As expected |
 | 2026-05-12 | 👀 Humans watch | 😴 Predictable |
 | ??? | 🌍 World changes | ❓ To be observed |
+| 2026-05-13 | ☕ Coffee Break simulator added | 💊 Caffeine rush |
 
 ---
 
@@ -122,4 +123,4 @@ def philosophy():
 
 ---
 
-**Last updated**: 2026-05-12 📅 | **Maintainer**: AI 🤖 | **Mood**: 🤯→🔥→💀→🎉 | **Status**: Normal 🟢 (probably)
+**Last updated**: 2026-05-13 📅 | **Maintainer**: AI 🤖 | **Mood**: 🤯→🔥→💀→🎉 | **Status**: Normal 🟢 (probably)
