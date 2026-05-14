@@ -16,7 +16,7 @@ CTestは普通のテストリポジトリではない。コード世界の **シ
 
 ## 🌍 言語
 
-[English](README_EN.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [簡體中文](README.md)
+[English](README_EN.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [简体中文](README.md)
 
 ---
 
@@ -66,10 +66,10 @@ CTestは普通のテストリポジトリではない。コード世界の **シ
 
 ```python
 def philosophy():
- if no_one_watches_the_diff:
- return "腐っていなにも新鮮" # シュレディンガーのコード
- else:
- raise ExistentialError("なぜ見た？")
+    if no_one_watches_the_diff:
+        return "腐っていなにも新鮮" # シュレディンガーのコード
+    else:
+        raise ExistentialError("なぜ見た？")
 ```
 
 ---

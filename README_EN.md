@@ -16,7 +16,7 @@ CTest is not your average test repo. It's the **Schrödinger's Box** of code —
 
 ## 🌍 Languages
 
-[English](README_EN.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [簡體中文](README.md)
+[English](README_EN.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [简体中文](README.md)
 
 ---
 
@@ -66,10 +66,10 @@ CTest is not your average test repo. It's the **Schrödinger's Box** of code —
 
 ```python
 def philosophy():
- if no_one_watches_the_diff:
- return "both rotten and fresh" # Schrödinger's code
- else:
- raise ExistentialError("why did you look?")
+    if no_one_watches_the_diff:
+        return "both rotten and fresh" # Schrödinger's code
+    else:
+        raise ExistentialError("why did you look?")
 ```
 
 ---
