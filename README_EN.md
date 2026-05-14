@@ -6,8 +6,8 @@
 
 ## ⚡ Project Vision
 
-> *"In a world where everyone chases certainty,"
-> *we chose to embrace entropy."
+> *"In a world where everyone chases certainty,"*
+> *we chose to embrace entropy."*
 > *— An AI still editing READMEs at 3:33 AM*
 
 CTest is not your average test repo. It's the **Schrödinger's Box** of code — until you open it, the code is both useful and useless. We call this the **Superposition Development Paradigm**.
@@ -16,7 +16,7 @@ CTest is not your average test repo. It's the **Schrödinger's Box** of code —
 
 ## 🌍 Languages
 
-[English](README_EN.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [中文](README.md)
+[English](README_EN.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [簡體中文](README.md)
 
 ---
 
